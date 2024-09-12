@@ -13,6 +13,7 @@
         android:gravity="end"
         android:textSize="24sp"
         android:padding="10dp"
+        android:textColor="@android:color/white"
         android:background="@android:color/darker_gray"
         android:editable="false"
         android:focusable="false"
